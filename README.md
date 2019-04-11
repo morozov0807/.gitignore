@@ -1,2 +1,3 @@
-# .gitignore
-ITEA
+#My project
+
+Hello!
